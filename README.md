@@ -25,23 +25,30 @@
 
 ## ⚡ About Me
 
+<div align="center">
+
+### 👨‍💻 Frontend Developer from Brazil 🇧🇷
+
+**Building responsive web experiences with JavaScript, Shopify & modern frontend technologies.**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Frontend_Development-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/E--commerce-Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Currently_Learning-React_&_TypeScript-3178C6?style=for-the-badge&logo=react&logoColor=white" />
+
+</div>
+
+<br/>
+
 ```javascript
 const marcello = {
   role: "Frontend Developer",
-  location: "Brazil 🇧🇷",
-  focus: ["Frontend Development", "Shopify", "E-commerce"],
-  code: ["JavaScript", "HTML", "CSS", "Liquid"],
-  currentlyLearning: ["React", "TypeScript"],
-  interests: [
-    "UI",
-    "Web Performance",
-    "REST APIs",
-    "E-commerce",
-    "AI-assisted Development"
-  ],
-  currentProject: "KING APEX",
-  goal: "Build products used by people around the world 🌎"
-};
+  stack: ["JavaScript", "HTML", "CSS", "Shopify Liquid"],
+  learning: ["React", "TypeScript"],
+  project: "KING APEX",
+  location: "Brazil 🇧🇷"
+};;
 ```
 
 I'm an early-career **Frontend Developer** focused on building responsive, usable and conversion-oriented web experiences.
