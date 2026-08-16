@@ -2,6 +2,19 @@
      MARCELLO GABRIELL — GITHUB PROFILE README
 ========================================================= -->
 
+</div>
+
+<div align="center">
+
+<img
+  src="./assets/lion-dev.gif"
+  width="200"
+  alt="Marcello Gabriell Animated Lion Developer Mascot"
+/>
+
+</div>
+
+
 <div align="center">
 
 # 🦁 MARCELLO GABRIELL
@@ -187,27 +200,3 @@ My current focus is strengthening **React and TypeScript** while continuing to b
 ![Profile Views](https://komarev.com/ghpvc/?username=MarcelloGabriell&style=for-the-badge&color=8B5CF6)
 
 </div>
-
-<!-- =========================================================
-
-FUTURE LION MASCOT / BANNER
-
-When marcello-lion.png is added to the repository:
-
-1. Create:
-
-assets/marcello-lion.png
-
-2. Then add this near the top of the README:
-
-<div align="center">
-
-<img
-  src="./assets/marcello-lion.png"
-  width="180"
-  alt="Marcello Gabriell Developer Lion Mascot"
-/>
-
-</div>
-
-========================================================= -->
