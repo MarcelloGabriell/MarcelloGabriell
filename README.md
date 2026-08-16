@@ -2,22 +2,15 @@
      MARCELLO GABRIELL — GITHUB PROFILE README
 ========================================================= -->
 
-</div>
-
 <div align="center">
 
 <img
-  src="./assets/lion-dev.gif"
+  src="https://raw.githubusercontent.com/MarcelloGabriell/MarcelloGabriell/main/assets/lion-dev.gif"
   width="200"
   alt="Marcello Gabriell Animated Lion Developer Mascot"
 />
 
-</div>
-
-
-<div align="center">
-
-# 🦁 MARCELLO GABRIELL
+# MARCELLO GABRIELL
 
 ### Frontend Developer · JavaScript · Shopify · E-commerce
 
@@ -29,7 +22,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcello_Gabriell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-gabriell/)
-[![Portfolio](https://img.shields.io/badge/Production_Project-KING_APEX-111111?style=for-the-badge&logo=shopify&logoColor=white)](https://thekingapex.com)
+[![KING APEX](https://img.shields.io/badge/Production_Project-KING_APEX-111111?style=for-the-badge&logo=shopify&logoColor=95BF47)](https://thekingapex.com)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcello.marques25@gmail.com)
 
 </div>
@@ -42,13 +35,13 @@
 
 ### 👨‍💻 Frontend Developer from Brazil 🇧🇷
 
-**Building responsive web experiences with JavaScript, Shopify & modern frontend technologies.**
+**Building responsive web experiences with JavaScript, Shopify and modern frontend technologies.**
 
 <br/>
 
 <img src="https://img.shields.io/badge/Focus-Frontend_Development-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/E--commerce-Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Currently_Learning-React_&_TypeScript-3178C6?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-React_&_TypeScript-3178C6?style=for-the-badge&logo=react&logoColor=white" />
 
 </div>
 
@@ -57,16 +50,18 @@
 ```javascript
 const marcello = {
   role: "Frontend Developer",
+  location: "Brazil 🇧🇷",
   stack: ["JavaScript", "HTML", "CSS", "Shopify Liquid"],
   learning: ["React", "TypeScript"],
-  project: "KING APEX",
-  location: "Brazil 🇧🇷"
-};;
+  interests: ["UI", "Web Performance", "REST APIs", "AI-assisted Development"],
+  currentProject: "KING APEX",
+  goal: "Build digital products used around the world 🌎"
+};
 ```
 
 I'm an early-career **Frontend Developer** focused on building responsive, usable and conversion-oriented web experiences.
 
-I currently build and maintain **KING APEX**, an international Shopify e-commerce storefront where I work with custom frontend interfaces, Shopify Liquid, JavaScript, responsive design, integrations, debugging, performance optimization and technical SEO.
+I currently build and maintain **KING APEX**, an international Shopify e-commerce storefront where I work with responsive interfaces, custom Liquid and JavaScript functionality, integrations, debugging, performance optimization and technical SEO.
 
 ---
 
@@ -142,18 +137,9 @@ My current focus is strengthening **React and TypeScript** while continuing to b
 
 <div align="center">
 
-<img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=MarcelloGabriell&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
-/>
-
-<img height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloGabriell&layout=compact&theme=midnight-purple&hide_border=true"
-/>
-
-<br/>
-
 <img
   src="https://streak-stats.demolab.com?user=MarcelloGabriell&theme=midnight-purple&hide_border=true"
+  alt="Marcello Gabriell GitHub Streak"
 />
 
 </div>
@@ -169,7 +155,7 @@ My current focus is strengthening **React and TypeScript** while continuing to b
 → E-commerce Engineering
 → UI / UX Implementation
 → Web Performance
-→ APIs & Integrations
+→ REST APIs & Integrations
 → AI-assisted Software Development
 ```
 
@@ -200,3 +186,8 @@ My current focus is strengthening **React and TypeScript** while continuing to b
 ![Profile Views](https://komarev.com/ghpvc/?username=MarcelloGabriell&style=for-the-badge&color=8B5CF6)
 
 </div>
+
+<!-- =========================================================
+     END OF PROFILE README
+========================================================= -->
+````
